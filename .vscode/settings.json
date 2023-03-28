@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "typeinfo": "cpp",
+        "stdio.h": "c",
+        "string": "c",
+        "streambuf": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
